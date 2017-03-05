@@ -1,0 +1,10 @@
+[package]
+authors = ["Samuel Dolt <samuel@dolt.ch>"]
+name = "stm32f072x-memory-map"
+documentation = "https://docs.rs/stm32f072x-memory-map"
+keywords = ["arm", "cortex-m", "cortex-m0", "stm32"]
+license = "MIT OR Apache-2.0"
+version = "0.1.0"
+
+[dependencies]
+volatile-register = "0.1.2"
